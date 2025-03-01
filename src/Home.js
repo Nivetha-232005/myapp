@@ -43,7 +43,7 @@ const Home = () => {
     </div>
     <div>
        <div className='homepage'>
-      <h1>WELCOME TO MY APP</h1>
+      <h1>pooja shopping</h1>
       <p>This My Home Page</p>
      </div>
      <div className='homepage2'>
@@ -59,19 +59,19 @@ const Home = () => {
      <div className='pro2'>
      < img src ={image2} alt="an image"/>
      <h2>Laptop</h2>
-     <p>price:$30,0000.5</p>
+     <p>price:35000</p>
      <button>click here</button>
       </div>    
       <div className='pro3'>
       < img src ={image3} alt="an image"/>
      <h2>Headphone</h2>
-     <p>price:$50,0000.5</p>
+     <p>price:20000</p>
      <button>click here</button>
      </div>  
      <div className='pro4'>
       <img src={image4} alt='an image'/>
       <h2>Iphone</h2>
-      <p>price:$1,00000.6</p>
+      <p>price:10000</p>
       <button>click here</button>
      </div>
      </div>
