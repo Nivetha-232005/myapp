@@ -5,7 +5,7 @@ const Login = () => {
    
 
     var userData=[
-        {username:"pooja",passcode:124,cart:[] },
+        {username:"nivetha",passcode:124,cart:[] },
         {username:"jan",passcode:120,cart:[] },
         {username:"harini",passcode:129,cart:[] },
     
@@ -51,4 +51,4 @@ const Login = () => {
   );
 };
 
-export default Login
+export default Login;
