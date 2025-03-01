@@ -96,7 +96,7 @@ align-items: center;
     
 }
 .ui{
-    background-color: black;
+    background-color: rgb(136, 104, 158);
     height: 100vh;
     display: flex;
     align-items: center;
